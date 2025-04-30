@@ -131,4 +131,4 @@ The script processes fonts in several stages, ensuring safe and organized output
 MIT License. Provided as-is for personal and educational use. Not affiliated with Adobe.
 
 ## Support
-This is a standalone script. For issues or suggestions, check the log file or contact the author if a repository is provided. You can contact me through GIThub or on Telegram: @mickjayofficial 
+This is a standalone script. For issues or suggestions, check the log file or contact the author through GIThub or on Telegram: @mickjayofficial 
