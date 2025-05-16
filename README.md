@@ -3,6 +3,8 @@
 ## A Note from the Author
 Hi! This is my first attempt at a Python script. TBH, I don't know Python at all. This was created as an experiment using Windsurf AI IDE with ChatGPT 4.1 as the AI model. I used Grok 3 Beta to organize the logic and write the prompts, which I then fed to GPT through Windsurf to actually write the code. Take a run with the script and let me know what you think. I'm open to suggestions and feedback. See support section below for contact info for bug reports and feature requests.
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/mickjayofficial/FONarchive?utm_source=oss&utm_medium=github&utm_campaign=mickjayofficial%2FFONarchive&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 ## Overview
 FONarchive Manager is a cross-platform Python script that safely extracts, organizes, and archives font files from Adobe’s livetype folder. It recovers TTF/OTF fonts—including those with non-standard or hidden names (e.g., `.200567`)—used by Adobe Creative Cloud, without modifying the source folder. Fonts are processed and organized in a user-friendly FONarchive directory on your Desktop or a custom location.
 
